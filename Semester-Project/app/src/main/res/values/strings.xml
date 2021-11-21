@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NU-DEMY</string>
+    <string name="welcome">Welcome!</string>
+    <string name="registeractivity">Register</string>
+    <string name="createnewacc">Register</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="software_design_and_analysis">Software Design and Analysis</string>
+    <string name="theory_of_automata">Theory of Automata</string>
+    <string name="computer_networks">Computer Networks</string>
+    <string name="videos">Videos</string>
+    <string name="lectures">Lectures</string>
+    <string name="add_to_mycourses">Add to MyCourses</string>
+    <string name="view_reviews">View Reviews</string>
+    <string name="faqs">FAQs: 1 - Who is this app for exactly? This app is designed and made especially for Fastians and gives you great help in getting content to help in studies.
+        2 - Will there be more courses added to this app in the future? ---- Yes, with time we shall be including all major courses offered at FAST so students can access them easily.
+        3 - Is it just content related to university? ---- No, as you can go look at the paid courses section we have content that is not taught at FAST but is still very useful for any student.
+        4 - Who manages all this and uploads all this content? ---- We are a group of students from FAST who have made this app and upload content that we have been taught in FAST.</string>
+    <string name="sda_review">1 - This was a well explained course however it lacked a practical viewpoint of some concepts.</string>
+    <string name="automata_review">1 - The course was well designed but it could have been made better by giving more detailed assignments.</string>
+    <string name="cn_review">1 - An amazingly taught course and very good implementations done.</string>
+    <string name="paidcourse1">Hyperledger Fabric and Composer - First Practical Blockchain</string>
+    <string name="paidcourse2">Practical Deep Learning with Keras and Python</string>
+    <string name="paidcourse3">Linux Command Line - From Zero to Expert</string>
+    <!--    <string name="sda_videos"><a href="www.google.com">Videos</a></string>-->
+</resources>
